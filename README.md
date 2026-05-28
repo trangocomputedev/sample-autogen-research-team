@@ -1,5 +1,7 @@
 # Sample AutoGen Research Team
 
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
+
 A multi-agent research and content pipeline built with [AutoGen v0.4](https://github.com/microsoft/autogen) (`autogen-agentchat`). Three progressively complex examples demonstrate the core AutoGen patterns. Serves as a canonical example and test fixture for the AI Workflow Visualizer.
 
 ## Examples

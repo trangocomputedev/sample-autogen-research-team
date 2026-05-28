@@ -106,3 +106,7 @@ Both tool modules are stubs designed to be replaced:
 - **`fetch_url`** → Use `httpx` + `BeautifulSoup` for real HTML extraction
 
 No other code needs to change — the agent and team configuration stays the same.
+
+---
+
+Built by [Trango Compute](https://trango-compute.com)
